@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dhruvraj Singh Rawat</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvraj-singh-rawat" alt="dhruvraj-singh-rawat" /></a> </p>
-
 - 🔭 I’m currently working at **PayPal**
 
 - 🌱 I’m currently enrolled at **Scaler Academy Full Stack Developer**
 
 - 💬 Ask me about **Machine learning**
+
+- ⚡ Fun fact **Global Warming is Real**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvraj-singh-rawat&show_icons=true&locale=en&layout=compact" alt="dhruvraj-singh-rawat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvraj-singh-rawat&show_icons=true&locale=en" alt="dhruvraj-singh-rawat" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvraj-singh-rawat&" alt="dhruvraj-singh-rawat" /></p>
