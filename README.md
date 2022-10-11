@@ -1,7 +1,7 @@
-[![MasterHead](https://miro.medium.com/max/4800/0*4aHRjVXRKsyUhm2b)]
+![MasterHead](https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/nn_gumgum.gif)
 <h1 align="center">Hi 👋, I'm Dhruvraj</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working at **PayPal**
 
