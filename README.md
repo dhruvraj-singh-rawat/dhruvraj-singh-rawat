@@ -26,12 +26,16 @@
 
 <ol>
 	<li>
-	<p><a href="https://github.com/dhruvraj-singh-rawat/LectureTheatre-Booking-Portal"><strong>LectureTheatre-Booking-Portal</strong></a><strong>&nbsp; :&nbsp;Portal created to Digitally and Securely Reserve Lecture </strong><strong>Hall for Various Cultural and Technical Societies during off-hours.</strong></p>
+	<p><a href="https://github.com/dhruvraj-singh-rawat/LectureTheatre-Booking-Portal"><strong>LectureTheatre-Booking-Portal</strong></a><strong>&nbsp; :&nbsp;</strong>Portal created to Digitally and Securely Reserve Lecture Hall for Various Cultural and Technical Societies during off-hours.</p>
 	</li>
 	<li>
-	<p><a href="https://github.com/dhruvraj-singh-rawat/Hand-Gesture-Recogination"><strong>Hand-Gesture-Recogination</strong></a><strong>&nbsp;:</strong></p>
+	<p><a href="https://github.com/dhruvraj-singh-rawat/Hand-Gesture-Recogination"><strong>Hand-Gesture-Recogination</strong></a><strong>&nbsp;:&nbsp;</strong>&quot;Hand Gesture Recogination&quot; model based on Convolution Neural Network that can with very high accuracy predict which Number constructed using Hand-Gesture by user, Real-Time using Keras &amp; OpenCV</p>
 	</li>
 </ol>
+
+
+
+
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dhruvraj-singh-rawat&show_icons=true&locale=en" alt="dhruvraj-singh-rawat" />
 
