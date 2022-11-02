@@ -26,10 +26,13 @@
 
 <ol>
 	<li>
-	<p><a href="https://github.com/dhruvraj-singh-rawat/LectureTheatre-Booking-Portal"><strong>LectureTheatre-Booking-Portal</strong></a><strong>&nbsp; :&nbsp;</strong>Portal created to Digitally and Securely Reserve Lecture Hall for Various Cultural and Technical Societies during off-hours.</p>
+	<p><a href="https://github.com/dhruvraj-singh-rawat/LectureTheatre-Booking-Portal"><strong>LectureTheatre-Booking-Portal</strong></a><strong>&nbsp; :&nbsp;</strong>Portal created to Digitally and Securely Reserve Lecture Halls for Various Cultural and Technical Societies during off-hours.</p>
 	</li>
 	<li>
-	<p><a href="https://github.com/dhruvraj-singh-rawat/Hand-Gesture-Recogination"><strong>Hand-Gesture-Recogination</strong></a><strong>&nbsp;:&nbsp;</strong>&quot;Hand Gesture Recogination&quot; model based on Convolution Neural Network that can with very high accuracy predict which Number constructed using Hand-Gesture by user, Real-Time using Keras &amp; OpenCV</p>
+	<p><a href="https://github.com/dhruvraj-singh-rawat/Hand-Gesture-Recogination"><strong>Hand-Gesture-Recogination</strong></a><strong>&nbsp;:&nbsp;</strong>&quot;Hand Gesture Recognition&quot; model based on Convolution Neural Network that can with very high accuracy predict which Number is constructed using Hand-Gesture by the user, Real-Time using Keras &amp; OpenCV</p>
+	</li>
+	<li>
+	<p><strong><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="https://github.com/dhruvraj-singh-rawat/SmartPass">SmartPass</a>&nbsp;: </strong>Rasberry-Pi powered RFID based access control system. The main aim of this project was to make the bus pass system at LNMIIT paperless by making use of the University ID which is already RFID based. This project was part of my IoT capstone project&nbsp;</p>
 	</li>
 </ol>
 
