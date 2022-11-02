@@ -25,7 +25,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvraj-singh-rawat&show_icons=true&locale=en&layout=compact" alt="dhruvraj-singh-rawat" /></p>
 
 
-
-<h3 align="left">Academic Projects</h3>
+<p><h3 align="left">Academic Projects</h3> </p>
 
 
