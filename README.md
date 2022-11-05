@@ -28,16 +28,16 @@
 	<p><a href="https://github.com/dhruvraj-singh-rawat/LectureTheatre-Booking-Portal"><strong>LectureTheatre-Booking-Portal</strong></a><strong>&nbsp; :&nbsp;</strong>Portal created to Digitally and Securely Reserve Lecture Halls for Various Cultural and Technical Societies during off-hours.</p>
 	</li>
 	<li>
-	<p><a href="https://github.com/dhruvraj-singh-rawat/Hand-Gesture-Recogination"><strong>Hand-Gesture-Recogination</strong></a><strong>&nbsp;:&nbsp;</strong>&quot;Hand Gesture Recognition&quot; model based on Convolution Neural Network that can with very high accuracy predict which Number is constructed using Hand-Gesture by the user, Real-Time using Keras &amp; OpenCV</p>
+	<p><a href="https://github.com/dhruvraj-singh-rawat/Hand-Gesture-Recogination"><strong>Hand-Gesture-Recognition</strong></a><strong>:&nbsp;</strong>&quot;Hand Gesture Recognition&quot; model based on Convolution Neural Network that can with very high accuracy predict which Number is constructed using Hand-Gesture by the user, Real-Time using Keras &amp; OpenCV</p>
 	</li>
 	<li>
-	<p><strong><a href="https://github.com/dhruvraj-singh-rawat/SmartPass">SmartPass</a>&nbsp;: </strong>Rasberry-Pi powered RFID based access control system. The main aim of this project was to make the bus pass system at LNMIIT paperless by making use of the University ID which is already RFID based. This project was part of my IoT capstone project&nbsp;</p>
+	<p><strong><a href="https://github.com/dhruvraj-singh-rawat/SmartPass">SmartPass</a>: </strong>Rasberry-Pi powered RFID-based access control system. The main aim of this project was to make the bus pass system at LNMIIT paperless by using the University ID which is already RFID based. This project was part of my IoT capstone project&nbsp;</p>
 	</li>
 	<li>
-	<p><strong><a href="https://github.com/dhruvraj-singh-rawat/Solar-Electricity-Generation-Prediction">Solar-Electricity-Generation-Prediction</a>&nbsp;:&nbsp;</strong>Electricity production through PV stations is highly variable and&nbsp;depends highly upon the solar irradiance at a location and environmental factors. In this work using&nbsp;meteorological data, we&nbsp;build a predictive model to forecast PV energy generation. For this, real data from PV Installation at the LNMIIT campus was used.&nbsp;</p>
+	<p><strong><a href="https://github.com/dhruvraj-singh-rawat/Solar-Electricity-Generation-Prediction">Solar-Electricity-Generation-Prediction</a>:&nbsp;</strong>Electricity production through PV stations is highly variable and&nbsp;depends highly upon the solar irradiance at a location and environmental factors. In this work using&nbsp;meteorological data, we&nbsp;build a predictive model to forecast PV energy generation. Real data from PV Installation at the LNMIIT campus was used for this.&nbsp;</p>
 	</li>
 	<li>
-	<p><strong><a href="https://github.com/dhruvraj-singh-rawat/power-consumption-prediction">power-consumption-prediction</a>&nbsp;: </strong>Using the power consumption of Tetouan city;&nbsp;feature creation, feature selection and a comparative analysis are done to find the performance difference&nbsp;between different ensemble tree-based algorithms.</p>
+	<p><strong><a href="https://github.com/dhruvraj-singh-rawat/power-consumption-prediction">power-consumption-prediction</a>: </strong>Using the power consumption of Tetouan city;&nbsp;feature creation, feature selection and a comparative analysis are made to find the performance difference&nbsp;between different ensemble tree-based algorithms.</p>
 	</li>
 </ol>
 
@@ -46,6 +46,7 @@
 <p>&nbsp;</p>
 
 
+<p><h3 align="left">Hackathons & Competitions</h3> </p>
 
 
 
