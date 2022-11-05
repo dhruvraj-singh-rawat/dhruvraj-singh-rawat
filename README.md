@@ -23,7 +23,6 @@
 
 <p><h3 align="left">Academic Projects</h3> </p>
 
-
 <ol>
 	<li>
 	<p><a href="https://github.com/dhruvraj-singh-rawat/LectureTheatre-Booking-Portal"><strong>LectureTheatre-Booking-Portal</strong></a><strong>&nbsp; :&nbsp;</strong>Portal created to Digitally and Securely Reserve Lecture Halls for Various Cultural and Technical Societies during off-hours.</p>
@@ -35,8 +34,6 @@
 	<p><strong><a href="https://github.com/dhruvraj-singh-rawat/SmartPass">SmartPass</a>&nbsp;: </strong>Rasberry-Pi powered RFID based access control system. The main aim of this project was to make the bus pass system at LNMIIT paperless by making use of the University ID which is already RFID based. This project was part of my IoT capstone project&nbsp;</p>
 	</li>
 	<li>
-	<p>&nbsp;</p>
-
 	<p><strong><a href="https://github.com/dhruvraj-singh-rawat/power-consumption-prediction">power-consumption-prediction</a>&nbsp;: </strong>Using the power consumption of Tetouan city;&nbsp;feature creation, feature selection and a comparative analysis are done to find the performance difference&nbsp;between different ensemble tree-based algorithms.</p>
 	</li>
 </ol>
@@ -44,6 +41,7 @@
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
+
 
 
 
