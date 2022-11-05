@@ -34,7 +34,7 @@
 	<p><strong><a href="https://github.com/dhruvraj-singh-rawat/SmartPass">SmartPass</a>&nbsp;: </strong>Rasberry-Pi powered RFID based access control system. The main aim of this project was to make the bus pass system at LNMIIT paperless by making use of the University ID which is already RFID based. This project was part of my IoT capstone project&nbsp;</p>
 	</li>
 	<li>
-	<p><strong><a href="https://github.com/dhruvraj-singh-rawat/power-consumption-prediction">power-consumption-prediction</a>&nbsp;: </strong>Using the power consumption of Tetouan city;&nbsp;feature creation, feature selection and a comparative analysis are done to find the performance difference&nbsp;between different ensemble tree-based algorithms.</p>
+	<p><strong><a href="https://github.com/dhruvraj-singh-rawat/power-consumption-prediction">power-consumption-prediction</a>&nbsp;: </strong>Using the power consumption of Tetouan city;&nbsp;feature creation, feature selection and a comparative performance analysis is done between different ensemble tree-based algorithms.</p>
 	</li>
 </ol>
 
