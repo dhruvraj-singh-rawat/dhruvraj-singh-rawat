@@ -22,10 +22,9 @@
 
 
 <p><h3 align="left">Academic Projects</h3> </p>
-
 <ol>
 	<li>
-	<p><a href="https://github.com/dhruvraj-singh-rawat/LectureTheatre-Booking-Portal"><strong>LectureTheatre-Booking-Portal</strong></a><strong>&nbsp; :&nbsp;</strong>Portal created to Digitally and Securely Reserve Lecture Halls for Various Cultural and Technical Societies during off-hours.</p>
+	<p><a href="https://github.com/dhruvraj-singh-rawat/LectureTheatre-Booking-Portal"><strong>LectureTheatre-Booking-Portal</strong></a><strong>:&nbsp;</strong>Portal created to Digitally and Securely Reserve Lecture Halls for Various Cultural and Technical Societies during off-hours.</p>
 	</li>
 	<li>
 	<p><a href="https://github.com/dhruvraj-singh-rawat/Hand-Gesture-Recogination"><strong>Hand-Gesture-Recognition</strong></a><strong>:&nbsp;</strong>&quot;Hand Gesture Recognition&quot; model based on Convolution Neural Network that can with very high accuracy predict which Number is constructed using Hand-Gesture by the user, Real-Time using Keras &amp; OpenCV</p>
@@ -47,6 +46,21 @@
 
 
 <p><h3 align="left">Hackathons & Competitions</h3> </p>
+
+<ol>
+	<li>
+	<p><a href="https://github.com/dhruvraj-singh-rawat/Duplito"><strong>Duplito</strong></a>: The main aim was to create a robust model which can Identify variations in names and identify&nbsp;a unique person and hence solve the problem of deduplication of records coming from multiple sources.</p>
+	</li>
+	<li>
+	<p><strong><a href="https://github.com/dhruvraj-singh-rawat/NotSafe">NotSafe</a>: </strong>Using&nbsp;Deep Learning intellectual unique passwords were generated using the corpus of hacked passwords readily available over&nbsp;the internet. Using the list of newly generated passwords, the idea was to help users make stronger passwords at the time of signup. This list would be&nbsp;more beneficial than the Bruteforce word list that is widely used in the industry.&nbsp;</p>
+	</li>
+	<li>
+	<p><strong><a href="https://github.com/dhruvraj-singh-rawat/ASME-Efest-WebDevelopment-Competition">ASME-Efest-WebDevelopment-Competition</a>:&nbsp;</strong>This Repository is for the competition held in LNMIIT by CSI for the recruitment in web development in E-Fest (Asia Pacific Conference), to be organized by the ASME Chapter, LNMIIT and CSI Chapter, LNMIIT</p>
+	</li>
+</ol>
+
+<p>&nbsp;</p>
+
 
 
 
