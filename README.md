@@ -26,6 +26,10 @@
 	<li>
 	<p><a href="https://github.com/dhruvraj-singh-rawat/LectureTheatre-Booking-Portal"><strong>LectureTheatre-Booking-Portal</strong></a><strong>:&nbsp;</strong>Portal created to Digitally and Securely Reserve Lecture Halls for Various Cultural and Technical Societies during off-hours.</p>
 	</li>
+	
+	<li>
+	<p><a href="https://github.com/dhruvraj-singh-rawat/LectureTheatre-Booking-Portal"><strong>LectureTheatre-Booking-Portal</strong></a><strong>:&nbsp;</strong>Portal created to Digitally and Securely Reserve Lecture Halls for Various Cultural and Technical Societies during off-hours.</p>
+	</li>
 	<li>
 	<p><a href="https://github.com/dhruvraj-singh-rawat/Hand-Gesture-Recogination"><strong>Hand-Gesture-Recognition</strong></a><strong>:&nbsp;</strong>&quot;Hand Gesture Recognition&quot; model based on Convolution Neural Network that can with very high accuracy predict which Number is constructed using Hand-Gesture by the user, Real-Time using Keras &amp; OpenCV</p>
 	</li>
