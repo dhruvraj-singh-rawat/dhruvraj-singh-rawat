@@ -24,7 +24,7 @@
 <p><h3 align="left">Academic Projects</h3> </p>
 <ol>
 		<li>
-	<p><a href="https://github.com/dhruvraj-singh-rawat/visual_search"><strong>Visual_Search</strong></a><strong>:&nbsp;</strong>Visual Image Search Engine leveraging computer vision techniques (Global Colour Histograms, Spatial Grids, PCA) for efficient image retrieval.</p>
+	<p><a href="https://github.com/dhruvraj-singh-rawat/visual_search"><strong>Visual_Search</strong></a><strong>:&nbsp;</strong>Visual Image Search Engine leveraging computer vision techniques (Global Colour Histograms, Spatial Grids, PCA) for efficient image retrieval</p>
 	</li>
 	
 	<li>
