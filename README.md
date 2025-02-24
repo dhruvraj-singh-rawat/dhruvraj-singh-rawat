@@ -23,6 +23,10 @@
 
 <p><h3 align="left">Academic Projects</h3> </p>
 <ol>
+		<li>
+	<p><a href="https://github.com/dhruvraj-singh-rawat/visual_search"><strong>Visual_Search</strong></a><strong>:&nbsp;</strong>Visual Image Search Engine leveraging computer vision techniques (Global Colour Histograms, Spatial Grids, PCA) for efficient image retrieval.</p>
+	</li>
+	
 	<li>
 	<p><a href="https://github.com/dhruvraj-singh-rawat/LectureTheatre-Booking-Portal"><strong>LectureTheatre-Booking-Portal</strong></a><strong>:&nbsp;</strong>Portal created to Digitally and Securely Reserve Lecture Halls for Various Cultural and Technical Societies during off-hours.</p>
 	</li>
