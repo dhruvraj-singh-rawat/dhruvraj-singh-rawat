@@ -21,28 +21,34 @@
 
 
 
-<p><h3 align="left">Academic Projects</h3> </p>
+<h3 align="left">Academic Projects</h3>
+
 <ol>
-		<li>
-	<p><a href="https://github.com/dhruvraj-singh-rawat/visual_search"><strong>Visual_Search</strong></a><strong>:&nbsp;</strong>Visual Image Search Engine leveraging computer vision techniques (Global Colour Histograms, Spatial Grids, PCA) for efficient image retrieval.</p>
-	</li>
-	
-	<li>
-	<p><a href="https://github.com/dhruvraj-singh-rawat/LectureTheatre-Booking-Portal"><strong>LectureTheatre-Booking-Portal</strong></a><strong>:&nbsp;</strong>Portal created to Digitally and Securely Reserve Lecture Halls for Various Cultural and Technical Societies during off-hours.</p>
-	</li>
-	<li>
-	<p><a href="https://github.com/dhruvraj-singh-rawat/Hand-Gesture-Recogination"><strong>Hand-Gesture-Recognition</strong></a><strong>:&nbsp;</strong>&quot;Hand Gesture Recognition&quot; model based on Convolution Neural Network that can with very high accuracy predict which Number is constructed using Hand-Gesture by the user, Real-Time using Keras &amp; OpenCV</p>
-	</li>
-	<li>
-	<p><strong><a href="https://github.com/dhruvraj-singh-rawat/SmartPass">SmartPass</a>: </strong>Rasberry-Pi powered RFID-based access control system. The main aim of this project was to make the bus pass system at LNMIIT paperless by using the University ID which is already RFID based. This project was part of my IoT capstone project&nbsp;</p>
-	</li>
-	<li>
-	<p><strong><a href="https://github.com/dhruvraj-singh-rawat/Solar-Electricity-Generation-Prediction">Solar-Electricity-Generation-Prediction</a>:&nbsp;</strong>Electricity production through PV stations is highly variable and&nbsp;depends highly upon the solar irradiance at a location and environmental factors. In this work using&nbsp;meteorological data, we&nbsp;build a predictive model to forecast PV energy generation. Real data from PV Installation at the LNMIIT campus was used for this.&nbsp;</p>
-	</li>
-	<li>
-	<p><strong><a href="https://github.com/dhruvraj-singh-rawat/power-consumption-prediction">power-consumption-prediction</a>: </strong>Using the power consumption of Tetouan city;&nbsp;feature creation, feature selection and a comparative analysis are made to find the performance difference&nbsp;between different ensemble tree-based algorithms.</p>
-	</li>
+    <li>
+        <p><a href="https://github.com/dhruvraj-singh-rawat/visual_search"><strong>Visual_Search:</strong></a> Visual Image Search Engine leveraging computer vision techniques (Global Colour Histograms, Spatial Grids, PCA) for efficient image retrieval.</p>
+    </li>
+
+    <li>
+        <p><a href="https://github.com/dhruvraj-singh-rawat/LectureTheatre-Booking-Portal"><strong>LectureTheatre-Booking-Portal:</strong></a> Digital and secure reservation portal for lecture halls for cultural and technical societies.</p>
+    </li>
+
+    <li>
+        <p><a href="https://github.com/dhruvraj-singh-rawat/Hand-Gesture-Recogination"><strong>Hand-Gesture-Recognition:</strong></a> CNN-based real-time hand gesture recognition model predicting numbers using Keras &amp; OpenCV.</p>
+    </li>
+
+    <li>
+        <p><a href="https://github.com/dhruvraj-singh-rawat/SmartPass"><strong>SmartPass:</strong></a> Raspberry-Pi powered RFID-based access control system digitizing bus passes at LNMIIT campus.</p>
+    </li>
+
+    <li>
+        <p><a href="https://github.com/dhruvraj-singh-rawat/Solar-Electricity-Generation-Prediction"><strong>Solar-Electricity-Generation-Prediction:</strong></a> Predictive model forecasting photovoltaic energy generation using meteorological data from LNMIIT campus.</p>
+    </li>
+
+    <li>
+        <p><a href="https://github.com/dhruvraj-singh-rawat/power-consumption-prediction"><strong>Power-Consumption-Prediction:</strong></a> Analysis of ensemble tree-based algorithms for power consumption prediction in Tetouan city, emphasizing feature selection and performance comparison.</p>
+    </li>
 </ol>
+
 
 <p>&nbsp;</p>
 
